@@ -19,9 +19,6 @@ Security Framework: Inspired by the OWASP top 10 checklist for credential securi
 
 Installation & Usage
 Clone the repository:
-
-Bash
-git clone https://github.com/your-username/password-analyzer.git
 Install dependencies:
 
 Bash
